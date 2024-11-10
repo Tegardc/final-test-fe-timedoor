@@ -1,0 +1,64 @@
+{
+  "products": {
+    "-NhnpoR9ca5KYtfD9uJh": {
+      "category": "Japanese Style",
+      "color": "colorfull",
+      "description": "Full body tattoo with japanese style",
+      "image": "https://i.pinimg.com/originals/da/fd/72/dafd722f264af35365691382ee749a14.jpg",
+      "name": "Full Body With Japanese Style",
+      "price": "250000",
+      "shipping": "20000",
+      "size": "Full Body"
+    },
+    "-NhnqXLUngTnnpMleFG8": {
+      "category": "Balinese Style",
+      "color": "black and white",
+      "description": "Full Legs tattoo with Balinese style",
+      "image": "https://i.pinimg.com/474x/a6/21/66/a621667e8d820688520175f73c59a5c9.jpg",
+      "name": "Full Legs Balinese",
+      "price": "200000",
+      "shipping": "20000",
+      "size": "Full Body"
+    },
+    "-NhrxKb8gy29BhfF9vIu": {
+      "category": "Neck",
+      "color": "black",
+      "description": "Neck tattoo with Japanase style",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zgoZ0F9RuPBzZeERoMIUZYf9SptYdt1pNQ&s",
+      "name": "Neck Japanese Style",
+      "price": "20000",
+      "shipping": "10000",
+      "size": "Small"
+    },
+    "-NhsywP3aTfGhZjL9uIo": {
+      "category": "Old School Style",
+      "color": "black and white",
+      "description": "Hand tattoo with Old School style",
+      "image": "https://static.wixstatic.com/media/ecd878_ed2a166e28084b0ba0a840faa0cc4b1d~mv2.jpeg/v1/fill/w_800,h_800,al_c,q_85/ecd878_ed2a166e28084b0ba0a840faa0cc4b1d~mv2.jpeg",
+      "name": "Hand Old School Style",
+      "price": "100000",
+      "shipping": "20000",
+      "size": "Middle"
+    },
+    "-Nhtrg9fGTB2kRzL9eK0": {
+      "category": "Old School",
+      "color": "black and white",
+      "description": "Full Arm tattoo with Oldschool style",
+      "image": "https://i.pinimg.com/736x/f6/88/b3/f688b30b09d178421a2caa23e0ed979a.jpg",
+      "name": "Arm Old School Style",
+      "price": "150000",
+      "shipping": "15000",
+      "size": "Middle"
+    },
+    "-Nhtrg9sfsd234dfssdf": {
+      "category": "Geometry Style",
+      "color": "black and white",
+      "description": "Hand tattoo with Geometry style",
+      "image": "https://i.pinimg.com/originals/89/23/f9/8923f90f99bb8309267f9db8f3b0fecd.jpg",
+      "name": "Hand Geometry Style",
+      "price": "100000",
+      "shipping": "10000",
+      "size": "Middle"
+    }
+  }
+}
